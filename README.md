@@ -2,7 +2,7 @@
 
 ### Soy *Oscar Francisco Lozano Martinez.*
 
-Recientemente completé un bootcamp de ciencia de datos en TripleTen, donde profundicé en Python, SQL y análisis de datos. Mi formación me ha permitido desarrollar habilidades avanzadas en programación, manipulación y visualización de datos, y ahora estoy aplicando estos conocimientos en diversos proyectos.
+Recientemente terminé un bootcamp de ciencia de datos en TripleTen, donde adquirí conocimientos avanzados en Python, SQL y análisis de datos. Esta experiencia me permitió perfeccionar mis habilidades en programación, manipulación y visualización de datos, aplicándolas en una variedad de proyectos prácticos y desafiantes.
 
 🔧 **Habilidades Adquiridas:**
 
