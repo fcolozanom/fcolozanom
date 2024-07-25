@@ -12,4 +12,4 @@ Análisis de Datos
 Visualización de Datos
 Estoy siempre en busca de nuevos desafíos y oportunidades para seguir aprendiendo y creciendo en el campo de la tecnología.
 
-[linkedin](linkedin.com/fcolozanom)
+[Linkedin](linkedin.com/fcolozanom)
