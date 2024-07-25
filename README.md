@@ -12,5 +12,21 @@ Análisis de Datos
 Visualización de Datos
 Estoy siempre en busca de nuevos desafíos y oportunidades para seguir aprendiendo y creciendo en el campo de la tecnología.
 
+<p align="center">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.icons8.com/color/64/python.png" alt="Python Icon" width="64" height="64" style="margin: 0 20px;" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.icons8.com/color/64/mysql.png" alt="MySQL Icon" width="64" height="64" style="margin: 0 20px;" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img src="https://img.icons8.com/color/64/microsoft-excel-2019.png" alt="Excel Icon" width="64" height="64" style="margin: 0 20px;" />
+  </a>
+</p>
+
 Me puedes encontrar en:
-[Linkedin](linkedin.com/fcolozanom)
+<p align="left">
+  <a href="https://linkedin.com/in/fcolozanom" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="width: 32px; height: 32px;" />
+  </a>
+</p>
