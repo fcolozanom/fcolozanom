@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**fcolozanom/fcolozanom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Oscar Francisco Lozano Martinez.
 
-Here are some ideas to get you started:
+Recientemente completé un bootcamp de tecnología en TripleTen, donde profundicé en Python, SQL y análisis de datos. Mi formación me ha permitido desarrollar habilidades avanzadas en programación, manipulación y visualización de datos, y ahora estoy aplicando estos conocimientos en diversos proyectos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Habilidades Adquiridas:
+
+Python
+SQL
+Análisis de Datos
+Visualización de Datos
+Estoy siempre en busca de nuevos desafíos y oportunidades para seguir aprendiendo y creciendo en el campo de la tecnología.
+
+[linkedin](linkedin.com/fcolozanom)
