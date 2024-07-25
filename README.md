@@ -8,6 +8,7 @@ Recientemente terminé un bootcamp de ciencia de datos en TripleTen, donde adqui
 
 * Python
 * SQL
+* Excel
 * Análisis de Datos
 * Visualización de Datos
 
