@@ -1,4 +1,4 @@
-![Encabezado](https://drive.google.com/uc?export=view&id=1G-Y6Zggdmt4iHrDhl6WMwNJcW9ICVCcG)
+![Encabezado](https://drive.google.com/uc?export=view&id=1y_TOGafzLJIOJPlPhiDA4WyCJqUrGWda)
 
 # Hi there 👋
 
