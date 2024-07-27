@@ -1,6 +1,6 @@
 <hr style="border: 3px solid #000;" />
 
-![Encabezado](https://drive.google.com/uc?export=view&id=1y_TOGafzLJIOJPlPhiDA4WyCJqUrGWda)
+![Banner](https://drive.google.com/uc?id=1IdV53W15q-UqAkDlK6pTDrFWDzwYJObC)
 
 <hr style="border: 3px solid #000;" />
 
@@ -12,17 +12,18 @@ Soy un Data Science Jr. y recientemente terminé un bootcamp de ciencia de datos
 
 🔧 **Habilidades Adquiridas:**
 
-* Python
+* Python (Pandas, NumPy, pymystem, NLTK)
 * SQL
 * Excel
 * Análisis de Datos
-* Visualización de Datos
+* Visualización de Datos (seaborn, Matplotlib, plotly)
 
-<p align="center" style="background-color: #ffffff; padding: 10px;">
-  <img src="https://img.icons8.com/color/64/python.png" alt="Python Icon" width="64" height="64" style="margin: 0 20px;" />
-  <img src="https://img.icons8.com/color/64/mysql.png" alt="MySQL Icon" width="64" height="64" style="margin: 0 20px;" />
-  <img src="https://img.icons8.com/color/64/microsoft-excel-2019.png" alt="Excel Icon" width="64" height="64" style="margin: 0 20px;" />
-</p>
+<div align="center">
+  <img width="66" height="66" src="https://img.icons8.com/color/66/python.png" alt="Python"/>
+  <img width="66" height="66" src="https://img.icons8.com/color/66/sql.png" alt="SQL"/>
+  <img width="66" height="66" src="https://img.icons8.com/color/66/microsoft-excel-2019.png" alt="Excel"/>
+  <img width="66" height="66" src="https://img.icons8.com/external-smashingstocks-outline-color-smashing-stocks/66/external-data-analysis-seo-and-marketing-smashingstocks-outline-color-smashing-stocks.png" alt="Análisis de Datos"/>
+</div>
 
 Estoy siempre en busca de nuevos desafíos y oportunidades para seguir aprendiendo y creciendo en el campo de la tecnología.
 
@@ -38,11 +39,6 @@ Puedes contactarme en:
   <li style="margin: 0 10px;">
     <a href="mailto:fcolozanom@hotmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
       <img width="32" height="32" src="https://img.icons8.com/fluency/32/microsoft-outlook-2019.png" alt="Outlook" style="vertical-align: middle;"/>
-    </a>
-  </li>
-  <li style="margin: 0 10px;">
-    <a href="https://wa.me/527821319131" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-      <img width="32" height="32" src="https://img.icons8.com/color/32/whatsapp.png" alt="WhatsApp" style="vertical-align: middle;"/>
     </a>
   </li>
 </ul>
