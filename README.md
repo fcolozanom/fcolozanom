@@ -1,16 +1,25 @@
 ![Encabezado](https://drive.google.com/uc?export=view&id=1y_TOGafzLJIOJPlPhiDA4WyCJqUrGWda)
 
-<p align="center" style="background-color: #ffffff; padding: 10px;">
-<a href="https://linkedin.com/in/fcolozanom" target="_blank" rel="noopener noreferrer">
-  <img width="40" height="40" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
-</a>
-  <a href="mailto:fcolozanom@hotmail.com" target="_blank" rel="noopener noreferrer">
-  <img width="40" height="40" src="https://img.icons8.com/fluency/48/microsoft-outlook-2019.png" alt="Outlook"/>
-</a>
-<a href="https://wa.me/527821319131" target="_blank" rel="noopener noreferrer">
-  <img width="40" height="40" src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp"/>
-</a>
-</p>
+<ul style="list-style-type: none; padding: 0; margin: 0; display: flex; align-items: center;">
+  <li style="display: flex; align-items: center; margin-right: 20px;">
+    <a href="https://linkedin.com/in/fcolozanom" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: flex; align-items: center;">
+      <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" style="margin-right: 8px;"/>
+      <span style="line-height: 48px;"> <a href="https://linkedin.com/in/fcolozanom" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">linkedin.com/in/fcolozanom</a></span>
+    </a>
+  </li>
+  <li style="display: flex; align-items: center; margin-right: 20px;">
+    <a href="mailto:fcolozanom@hotmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: flex; align-items: center;">
+      <img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-outlook-2019.png" alt="Outlook" style="margin-right: 8px;"/>
+      <span style="line-height: 48px;">fcolozanom@hotmail.com</span>
+    </a>
+  </li>
+  <li style="display: flex; align-items: center;">
+    <a href="https://wa.me/527821319131" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: flex; align-items: center;">
+      <img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp" style="margin-right: 8px;"/>
+      <span style="line-height: 48px;">+52 782 131 9131</span>
+    </a>
+  </li>
+</ul>
 
 <hr style="border: 3px solid #000;" />
 
