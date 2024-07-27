@@ -1,8 +1,10 @@
+![Encabezado](https://drive.google.com/file/d/1G-Y6Zggdmt4iHrDhl6WMwNJcW9ICVCcG/view?usp=sharing) <!-- Imagen de encabezado -->
+
 # Hi there 👋
 
 ### Soy *Oscar Francisco Lozano Martinez.*
 
-Recientemente terminé un bootcamp de ciencia de datos en TripleTen, donde adquirí conocimientos avanzados en Python, SQL y análisis de datos. Esta experiencia me permitió perfeccionar mis habilidades en programación, manipulación y visualización de datos, aplicándolas en una variedad de proyectos prácticos y desafiantes.
+Soy un Data Science Jr. y recientemente terminé un bootcamp de ciencia de datos en TripleTen, donde adquirí conocimientos avanzados en Python, SQL y análisis de datos. Esta experiencia me permitió perfeccionar mis habilidades en programación, manipulación y visualización de datos, aplicándolas en una variedad de proyectos prácticos y desafiantes. Me apasiona el aprendizaje continuo y me esfuerzo por hacer un impacto positivo en el campo de la ciencia de datos, siempre buscando innovar y ofrecer soluciones efectivas.
 
 🔧 **Habilidades Adquiridas:**
 
@@ -26,3 +28,5 @@ Me puedes encontrar en:
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="width: 32px; height: 32px;" />
   </a>
 </p>
+
+📧 Puedes contactarme en: fcolozano@gmail.com
