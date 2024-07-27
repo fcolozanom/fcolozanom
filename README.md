@@ -1,4 +1,4 @@
-![Encabezado](https://drive.google.com/file/d/1G-Y6Zggdmt4iHrDhl6WMwNJcW9ICVCcG/view?usp=sharing) <!-- Imagen de encabezado -->
+![Encabezado](https://drive.google.com/uc?export=view&id=1G-Y6Zggdmt4iHrDhl6WMwNJcW9ICVCcG)
 
 # Hi there 👋
 
