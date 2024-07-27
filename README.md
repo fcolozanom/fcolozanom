@@ -28,5 +28,3 @@ Me puedes encontrar en:
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="width: 32px; height: 32px;" />
   </a>
 </p>
-
-📧 Puedes contactarme en: fcolozano@gmail.com
