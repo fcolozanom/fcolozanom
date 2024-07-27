@@ -1,5 +1,19 @@
 ![Encabezado](https://drive.google.com/uc?export=view&id=1y_TOGafzLJIOJPlPhiDA4WyCJqUrGWda)
 
+<p align="center" style="background-color: #ffffff; padding: 10px;">
+<a href="https://linkedin.com/in/fcolozanom" target="_blank" rel="noopener noreferrer">
+  <img width="40" height="40" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+</a>
+  <a href="mailto:fcolozanom@hotmail.com" target="_blank" rel="noopener noreferrer">
+  <img width="40" height="40" src="https://img.icons8.com/fluency/48/microsoft-outlook-2019.png" alt="Outlook"/>
+</a>
+<a href="https://wa.me/527821319131" target="_blank" rel="noopener noreferrer">
+  <img width="40" height="40" src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp"/>
+</a>
+</p>
+
+<hr style="border: 3px solid #000;" />
+
 # Hi there 👋
 
 ### Soy *Oscar Francisco Lozano Martinez.*
@@ -21,10 +35,3 @@ Soy un Data Science Jr. y recientemente terminé un bootcamp de ciencia de datos
 </p>
 
 Estoy siempre en busca de nuevos desafíos y oportunidades para seguir aprendiendo y creciendo en el campo de la tecnología.
-
-Me puedes encontrar en:
-<p align="left">
-  <a href="https://linkedin.com/in/fcolozanom" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="width: 32px; height: 32px;" />
-  </a>
-</p>
