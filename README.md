@@ -1,25 +1,26 @@
 ![Encabezado](https://drive.google.com/uc?export=view&id=1y_TOGafzLJIOJPlPhiDA4WyCJqUrGWda)
 
-<ul style="list-style-type: none; padding: 0; margin: 0; display: flex; align-items: center;">
-  <li style="display: flex; align-items: center; margin-right: 20px;">
-    <a href="https://linkedin.com/in/fcolozanom" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: flex; align-items: center;">
-      <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" style="margin-right: 8px;"/>
-      <span style="line-height: 48px;"> <a href="https://linkedin.com/in/fcolozanom" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">linkedin.com/in/fcolozanom</a></span>
+<ul style="list-style: none; padding: 0; margin: 0; display: flex; align-items: center; justify-content: space-between;">
+  <li style="display: flex; align-items: center; margin-right: 15px;">
+    <a href="https://linkedin.com/in/fcolozanom" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: flex; align-items: center; color: black;">
+      <img width="32" height="32" src="https://img.icons8.com/color/32/linkedin.png" alt="LinkedIn" style="margin-right: 8px; vertical-align: middle;">
+      <span style="line-height: 32px; font-size: 14px;">linkedin.com/in/fcolozanom</span>
     </a>
   </li>
-  <li style="display: flex; align-items: center; margin-right: 20px;">
-    <a href="mailto:fcolozanom@hotmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: flex; align-items: center;">
-      <img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-outlook-2019.png" alt="Outlook" style="margin-right: 8px;"/>
-      <span style="line-height: 48px;">fcolozanom@hotmail.com</span>
+  <li style="display: flex; align-items: center; margin-right: 15px;">
+    <a href="mailto:fcolozanom@hotmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: flex; align-items: center; color:black">
+      <img width=32 height=32 src=https://img.icons8.com/fluency/32/microsoft-outlook-2019.png alt=Outlook style=margin-right :8px ;vertical-align :middle >
+      <span style=line-height :32 px;font-size :14 px >fcolozanom@hotmail.com</span>
     </a>
-  </li>
-  <li style="display: flex; align-items: center;">
-    <a href="https://wa.me/527821319131" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: flex; align-items: center;">
-      <img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp" style="margin-right: 8px;"/>
-      <span style="line-height: 48px;">+52 782 131 9131</span>
-    </a>
-  </li>
-</ul>
+   </li >
+   <li style=display :flex ;align-items :center >
+    <a href=https://wa.me/527821319131 target=_blank rel=noopener noreferrer 
+style=text-decoration :none ;display :flex ;align-items:center;color:black> 
+     <img width=32 height =32 src =https://img.icons8.com/color/32/whatsapp.png alt =WhatsApp 
+style =margin-right :8 px ;vertical-align :middle > 
+     <span style=line-height :32 px;font-size :14 px >+52 7821319131</span> 
+   </a></li></ul >
+
 
 <hr style="border: 3px solid #000;" />
 
